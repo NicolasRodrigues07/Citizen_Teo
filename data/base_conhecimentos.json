@@ -1,0 +1,76 @@
+[
+    {
+    "id": 1,
+    "categoria": "Exames",
+    "titulo": "Hemograma",
+    "palavras_chaves": [
+        "Exame de Sangue", "Sangue", "hemo"
+    ],
+    "resumo": "O hemograma é um exame de sangue rápido que avalia três partes principais: os glóbulos vermelhos (que transportam oxigênio e indicam anemia se estiverem baixos), os glóbulos brancos (células de defesa que aumentam em infecções) e as plaquetas (que ajudam na cicatrização e coagulação).",
+    "jejum": "Não é necessário jejum para esse exame, a menos que o seu médico tenha indicado",
+    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
+    "onde": "Locais de atendimento próximos a você...",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 2,
+    "categoria": "Exames",
+    "titulo": "Endoscopia",
+    "palavras_chaves": [
+        "endoscopia", "eda"
+    ],
+    "resumo": "A Endoscopia é um exame rápido usado para visualizar o revestimento interno do esôfago, estômago e duodeno (início do intestino delgado). Ele serve para investigar sintomas como azia, dor abdominal, náuseas ou sangramentos, diagnosticando problemas como gastrite, refluxo e úlceras.",
+    "jejum": "Jejum absoluto de 8 horas antes do exame (inclui balas, chicletes e sucos com polpa)",
+    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
+    "onde": "Locais de atendimento próximos a você...",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 3,
+    "categoria": "Exames",
+    "titulo": "Ultrassonografia",
+    "palavras_chaves": [
+        "Ultrasson", "eda"
+    ],
+    "resumo": "A Endoscopia é um exame rápido usado para visualizar o revestimento interno do esôfago, estômago e duodeno (início do intestino delgado). Ele serve para investigar sintomas como azia, dor abdominal, náuseas ou sangramentos, diagnosticando problemas como gastrite, refluxo e úlceras.",
+    "jejum": "Jejum absoluto de 8 horas antes do exame (inclui balas, chicletes e sucos com polpa)",
+    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
+    "onde": "Locais de atendimento próximos a você...",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 4,
+    "categoria": "Exames",
+    "titulo": "Ultrassonografia",
+    "palavras_chaves": [
+        "Ultrasson", "eda"
+    ],
+    "resumo": "A Endoscopia é um exame rápido usado para visualizar o revestimento interno do esôfago, estômago e duodeno (início do intestino delgado). Ele serve para investigar sintomas como azia, dor abdominal, náuseas ou sangramentos, diagnosticando problemas como gastrite, refluxo e úlceras.",
+    "jejum": "Jejum absoluto de 8 horas antes do exame (inclui balas, chicletes e sucos com polpa)",
+    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
+    "onde": "Locais de atendimento próximos a você...",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 5,
+    "categoria": "Exames",
+    "titulo": "Ultrassonografia",
+    "palavras_chaves": [
+        "Ultrasson", "eda"
+    ],
+    "resumo": "A Endoscopia é um exame rápido usado para visualizar o revestimento interno do esôfago, estômago e duodeno (início do intestino delgado). Ele serve para investigar sintomas como azia, dor abdominal, náuseas ou sangramentos, diagnosticando problemas como gastrite, refluxo e úlceras.",
+    "jejum": "Jejum absoluto de 8 horas antes do exame (inclui balas, chicletes e sucos com polpa)",
+    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
+    "onde": "Locais de atendimento próximos a você...",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    }
+]
