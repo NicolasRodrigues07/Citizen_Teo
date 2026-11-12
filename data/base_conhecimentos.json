@@ -34,10 +34,10 @@
     "categoria": "Exames",
     "titulo": "Ultrassonografia",
     "palavras_chaves": [
-        "Ultrasson", "eda"
+        "Ultrasson", "ecografia", "USG"
     ],
-    "resumo": "A Endoscopia é um exame rápido usado para visualizar o revestimento interno do esôfago, estômago e duodeno (início do intestino delgado). Ele serve para investigar sintomas como azia, dor abdominal, náuseas ou sangramentos, diagnosticando problemas como gastrite, refluxo e úlceras.",
-    "jejum": "Jejum absoluto de 8 horas antes do exame (inclui balas, chicletes e sucos com polpa)",
+    "resumo": "A ultrassonografia (ou ecografia) é um exame de imagem rápido e indolor que usa ondas sonoras (sem radiação) para gerar imagens em tempo real dos órgãos e tecidos internos do corpo, como fígado, rins, tireoide, coração ou um bebê durante a gravidez. O médico passa um gel na pele e desliza um pequeno aparelho (transdutor) sobre a região avaliada.",
+    "jejum": "Exige jejum de 6 a 8 horas (para evitar gases e manter a vesícula cheia) e, frequentemente, bexiga cheia (beber de 4 a 6 copos de água 1 hora antes e não urinar).",
     "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
     "onde": "Locais de atendimento próximos a você...",
     "fonte": "Dados encontrados no local...",
@@ -47,12 +47,12 @@
     {
     "id": 4,
     "categoria": "Exames",
-    "titulo": "Ultrassonografia",
+    "titulo": "Raio-X",
     "palavras_chaves": [
-        "Ultrasson", "eda"
+        "raiox", "x", "raio", "radiografia", "rx"
     ],
-    "resumo": "A Endoscopia é um exame rápido usado para visualizar o revestimento interno do esôfago, estômago e duodeno (início do intestino delgado). Ele serve para investigar sintomas como azia, dor abdominal, náuseas ou sangramentos, diagnosticando problemas como gastrite, refluxo e úlceras.",
-    "jejum": "Jejum absoluto de 8 horas antes do exame (inclui balas, chicletes e sucos com polpa)",
+    "resumo": "O Raio-X (radiografia) é um exame de imagem rápido e indolor que usa uma pequena dose de radiação para fotografar o interior do corpo. Como os ossos absorvem mais radiação que os tecidos moles, eles aparecem brancos na imagem, tornando o exame ideal para identificar fraturas, problemas articulares, infecções pulmonares (como pneumonia) e cáries dentárias.",
+    "jejum": "Não é necessário fazer jejum para a grande maioria dos raios-X (como tórax, coluna, braços, pernas ou dentes). A única exceção rara são exames contrastados específicos do sistema digestivo (como o trânsito intestinal)",
     "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
     "onde": "Locais de atendimento próximos a você...",
     "fonte": "Dados encontrados no local...",
@@ -62,12 +62,12 @@
     {
     "id": 5,
     "categoria": "Exames",
-    "titulo": "Ultrassonografia",
+    "titulo": "Eletrocardiograma",
     "palavras_chaves": [
-        "Ultrasson", "eda"
+        "Eletro", "ECG"
     ],
-    "resumo": "A Endoscopia é um exame rápido usado para visualizar o revestimento interno do esôfago, estômago e duodeno (início do intestino delgado). Ele serve para investigar sintomas como azia, dor abdominal, náuseas ou sangramentos, diagnosticando problemas como gastrite, refluxo e úlceras.",
-    "jejum": "Jejum absoluto de 8 horas antes do exame (inclui balas, chicletes e sucos com polpa)",
+    "resumo": "O eletrocardiograma é um exame rápido, simples e totalmente indolor que registra a atividade elétrica do coração através de pequenos adesivos (eletrodos) colados no peito, nos punhos e nos tornozelos. Ele dura cerca de 5 minutos e serve para avaliar o ritmo e a frequência dos batimentos, ajudando a detectar arritmias, sinais de infarto, sopros ou sobrecarga cardíaca.",
+    "jejum": "Não é necessário fazer jejum; você pode comer e beber normalmente antes do exame.",
     "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
     "onde": "Locais de atendimento próximos a você...",
     "fonte": "Dados encontrados no local...",
