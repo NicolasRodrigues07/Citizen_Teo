@@ -1,0 +1,3 @@
+#Aviso Importante: Este canal possui caráter exclusivamente informativo e educacional. Não somos um canal de atendimento oficial, não substituímos consultas médicas, diagnósticos ou orientações profissionais, e não realizamos agendamentos de exames, venda de medicamentos ou emissão de receitas. Em caso de dúvidas sobre sintomas, tratamentos ou emergências de saúde, procure sempre um médico ou serviço de saúde qualificado.
+
+#Conteúdo apenas informativo. Não substituímos consultas, diagnósticos ou orientações médicas profissionais.

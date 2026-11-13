@@ -8,7 +8,7 @@
     ],
     "resumo": "O hemograma é um exame de sangue rápido que avalia três partes principais: os glóbulos vermelhos (que transportam oxigênio e indicam anemia se estiverem baixos), os glóbulos brancos (células de defesa que aumentam em infecções) e as plaquetas (que ajudam na cicatrização e coagulação).",
     "jejum": "Não é necessário jejum para esse exame, a menos que o seu médico tenha indicado",
-    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
+    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico e sua carteirinha de convênio ou sus",
     "onde": "Locais de atendimento próximos a você...",
     "fonte": "Dados encontrados no local...",
     "verificado_em": "Última atualização em 11/11/2026"
@@ -23,7 +23,7 @@
     ],
     "resumo": "A Endoscopia é um exame rápido usado para visualizar o revestimento interno do esôfago, estômago e duodeno (início do intestino delgado). Ele serve para investigar sintomas como azia, dor abdominal, náuseas ou sangramentos, diagnosticando problemas como gastrite, refluxo e úlceras.",
     "jejum": "Jejum absoluto de 8 horas antes do exame (inclui balas, chicletes e sucos com polpa)",
-    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
+    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico e sua carteirinha de convênio ou sus",
     "onde": "Locais de atendimento próximos a você...",
     "fonte": "Dados encontrados no local...",
     "verificado_em": "Última atualização em 11/11/2026"
@@ -38,7 +38,7 @@
     ],
     "resumo": "A ultrassonografia (ou ecografia) é um exame de imagem rápido e indolor que usa ondas sonoras (sem radiação) para gerar imagens em tempo real dos órgãos e tecidos internos do corpo, como fígado, rins, tireoide, coração ou um bebê durante a gravidez. O médico passa um gel na pele e desliza um pequeno aparelho (transdutor) sobre a região avaliada.",
     "jejum": "Exige jejum de 6 a 8 horas (para evitar gases e manter a vesícula cheia) e, frequentemente, bexiga cheia (beber de 4 a 6 copos de água 1 hora antes e não urinar).",
-    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
+    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico e sua carteirinha de convênio ou sus",
     "onde": "Locais de atendimento próximos a você...",
     "fonte": "Dados encontrados no local...",
     "verificado_em": "Última atualização em 11/11/2026"
@@ -53,7 +53,7 @@
     ],
     "resumo": "O Raio-X (radiografia) é um exame de imagem rápido e indolor que usa uma pequena dose de radiação para fotografar o interior do corpo. Como os ossos absorvem mais radiação que os tecidos moles, eles aparecem brancos na imagem, tornando o exame ideal para identificar fraturas, problemas articulares, infecções pulmonares (como pneumonia) e cáries dentárias.",
     "jejum": "Não é necessário fazer jejum para a grande maioria dos raios-X (como tórax, coluna, braços, pernas ou dentes). A única exceção rara são exames contrastados específicos do sistema digestivo (como o trânsito intestinal)",
-    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
+    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico e sua carteirinha de convênio ou sus",
     "onde": "Locais de atendimento próximos a você...",
     "fonte": "Dados encontrados no local...",
     "verificado_em": "Última atualização em 11/11/2026"
@@ -68,8 +68,144 @@
     ],
     "resumo": "O eletrocardiograma é um exame rápido, simples e totalmente indolor que registra a atividade elétrica do coração através de pequenos adesivos (eletrodos) colados no peito, nos punhos e nos tornozelos. Ele dura cerca de 5 minutos e serve para avaliar o ritmo e a frequência dos batimentos, ajudando a detectar arritmias, sinais de infarto, sopros ou sobrecarga cardíaca.",
     "jejum": "Não é necessário fazer jejum; você pode comer e beber normalmente antes do exame.",
-    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico é sua carteirinha de convênio ou sus",
+    "documentos": "É recomendável levar consigo um documento de identificação (RG/CPF/CNH), um pedido médico e sua carteirinha de convênio ou sus",
     "onde": "Locais de atendimento próximos a você...",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+    { 
+    "id": 6,
+    "categoria": "Medicamentos",
+    "titulo": "Dipirona",
+    "resumo": "Dipirona um medicamento com ação analgésica (alivia dores leves a moderadas, como dor de cabeça, cólicas e dor muscular) e antitérmica (baixa a febre). Ela começa a agir cerca de 30 a 60 minutos após o uso, bloqueando substâncias no corpo que sinalizam a dor e elevam a temperatura.",
+    "colaterais": "",
+    "tempo_Acao": "",
+    "palavras_chaves": [
+        "dor de cabeça", "novalgina", "analgesico", "dipirona"
+    ],
+    "contraindicado": "Contraindicada para pessoas com alergia ao composto ou a outros analgésicos, problemas na medula óssea, doenças metabólicas raras (como porfiria ou deficiência de G6PD), bebês menores de 3 meses (ou abaixo de 5 kg) e gestantes nos primeiros e últimos três meses de gravidez.",
+    "receita": "Não é necessária receita médica para este medicamento.",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 7,
+    "categoria": "Medicamentos",
+    "titulo": "Nimesulida",
+    "resumo": "Nimesulida é um medicamento anti-inflamatório não esteroidal (AINE) com forte ação contra inflamação, dor e febre. Ela age bloqueando enzimas específicas (como a COX-2) que produzem substâncias inflamatórias no organismo, sendo muito utilizada para alívio de curto prazo em casos de dor de garganta, dor de dente, cólicas menstruais, dores musculares e inflamações nas articulações.",
+    "palavras_chaves": [
+        "anti-inflamatorio", "aine", "analgesico", "cimelide", "nimesulida"
+    ],
+    "contraindicado": "Contraindicada para pessoas com alergia ao composto ou a outros anti-inflamatórios (como AAS, AINEs e ibuprofeno), pacientes com úlcera no estômago, sangramento gastrointestinal, problemas graves no fígado, rins ou coração, gestantes, mulheres em fase de amamentação e crianças menores de 12 anos.",
+    "Receita": "Exige receita médica comum - tarja vermelha",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 8,
+    "categoria": "Medicamentos",
+    "titulo": "Amoxicilina",
+    "resumo": "Amoxicilina é um antibiótico da família das penicilinas usado para tratar infecções causadas por bactérias, como infecções de garganta (amigdalite), ouvido (otite), sinusite, infecções urinárias, dentárias e respiratórias (como pneumonia). Ela age impedindo que as bactérias construam suas paredes celulares, eliminando a infecção — mas não tem nenhum efeito contra vírus (como gripes e resfriados).",
+    "palavras_chaves": [
+        "antibiotico", "penicilina", "bacteria", "infeccao", "amoxicilina"
+    ],
+    "contraindicado": "É contraindicada para pessoas com alergia às penicilinas, cefalosporinas ou a qualquer componente da fórmula, devendo ser usada com cautela e orientação médica em pacientes com problemas renais graves, histórico de alergias severas ou mulheres grávidas e lactantes.",
+    "Receita": "Exige receita médica com retenção (receita de controle especial em duas vias, onde uma via fica retida na farmácia, válida por 10 dias no Brasil).",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 9,
+    "categoria": "Medicamentos",
+    "titulo": "Loratadina",
+    "resumo": "Loratadina é um medicamento antialérgico (anti-histamínico de segunda geração) usado para aliviar sintomas de reações alérgicas, como rinite alérgica (espirros, coriza, coceira no nariz e nos olhos), urticária e coceiras na pele. Ela age bloqueando a ação da histamina (substância liberada pelo corpo durante uma alergia) e tem a vantagem de causar muito menos sonolência do que os antialérgicos mais antigos, começando a agir em cerca de 1 a 3 horas.",
+    "palavras_chaves": [
+        "antialergico", "rinite", "alegra", "loratadina"
+    ],
+    "contraindicado": "Contraindicada para pessoas com alergia à loratadina ou a qualquer componente da fórmula, crianças menores de 2 anos, devendo ser usada apenas com orientação médica por gestantes, mulheres em fase de amamentação e pacientes com problemas graves no fígado.",
+    "Receita": "Não é necessária receita médica para este medicamento.",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 10,
+    "categoria": "Medicamentos",
+    "titulo": "Omeprazol",
+    "resumo": "O omeprazol é um medicamento da classe dos inibidores da bomba de prótons (IBP) usado para reduzir a produção de ácido no estômago. Ele é indicado para tratar azia, refluxo gastroesofágico, gastrite, úlceras no estômago ou duodeno, e também para proteger o estômago durante o uso prolongado de anti-inflamatórios, devendo ser tomado geralmente em jejum, cerca de 30 minutos antes do café da manhã.",
+    "palavras_chaves": [
+        "gastrite", "refluxo", "estomago", "intestino", "omeprazol"
+    ],
+    "contraindicado": "É contraindicado para pessoas com alergia ao omeprazol ou a outros medicamentos da mesma classe (como pantoprazol e esomeprazol), pacientes em tratamento com certos antirretrovirais (como atazanavir ou nelfinavir), devendo ser usado apenas sob orientação médica por gestantes, lactantes e pessoas com problemas graves no fígado.",
+    "Receita": "Exige receita médica comum (tarja vermelha — venda sob prescrição médica, sem retenção da receita na farmácia).",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 11,
+    "categoria": "duvidas",
+    "titulo": "Como marcar e realizar exames?",
+    "resposta": "Para realizar um exame, é necessário passar por uma consulta médica para obter o pedido e a guia de autorização (pelo SUS ou convênio). Em seguida, deve-se entrar em contato com a clínica ou laboratório para agendamento, verificando com antecedência se há exigência de jejum absoluto, suspensão de medicamentos ou preparos específicos.",
+    "palavras_chaves": [
+        "marcar exame", "como fazer", "agendamento", "guia", "pedido"
+    ],
+    "onde": "Locais de atendimento próximos a você...",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 12,
+    "categoria": "duvidas",
+    "titulo": "Como descartar medicamentos vencidos?",
+    "resposta": "Nunca jogue medicamentos vencidos ou sobras no lixo comum ou na pia/vaso sanitário, pois os compostos químicos contaminam o solo e a água. O descarte correto deve ser feito levando os produtos até postos de coleta especializados localizados em farmácias parceiras ou Unidades Básicas de Saúde (UBS).",
+    "palavras_chaves": [
+        "descarte", "medicamento vencido", "lixo", "farmacia", "ubs"
+    ],
+    "onde": "Locais de atendimento próximos a você...",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 13,
+    "categoria": "duvidas",
+    "titulo": "Qual a diferença entre medicamentos de Referência, Genérico e Similar?",
+    "resposta": "O medicamento de referência é o remédio pioneiro lançado pela indústria farmacêutica após anos de pesquisa e testes. O genérico possui o mesmo princípio ativo, dose e forma farmacêutica do referência, sendo intercambiável (pode substituí-lo), identificado por uma tarja amarela com a letra 'G' e sem nome comercial. Já o similar também possui o mesmo princípio ativo do referência, mas pode diferir em tamanho, formato, prazo de validade ou embalagem, possuindo um nome comercial próprio e exigindo testes de equivalência para garantir sua eficácia.",
+    "palavras_chaves": [
+        "generico", "similar", "referencia", "marca", "farmacia"
+    ],
+    "onde": "Balcão de atendimento das farmácias...",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 14,
+    "categoria": "duvidas",
+    "titulo": "O que fazer em caso de reação alérgica a medicamentos?",
+    "resposta": "Caso apresente sintomas de reação alérgica (como vermelhidão na pele, coceira intensa, inchaço nos lábios ou olhos, ou falta de ar), a orientação básica é suspender o uso do medicamento imediatamente. Se houver dificuldade para respirar, inchaço na garganta ou tontura, procure um pronto-socorro ou atendimento médico de emergência na hora. Guarde a embalagem do remédio para mostrar ao médico.",
+    "palavras_chaves": [
+        "alergia", "reacao alergica", "efeito colateral", "emergencia"
+    ],
+    "onde": "Pronto-socorro ou Unidade de Pronto Atendimento (UPA) mais próxima...",
+    "fonte": "Dados encontrados no local...",
+    "verificado_em": "Última atualização em 11/11/2026"
+    },
+
+    {
+    "id": 15,
+    "categoria": "duvidas",
+    "titulo": "Qual é o prazo de validade das receitas médicas?",
+    "resposta": "O prazo varia conforme o tipo de medicamento: a receita branca comum (usada para remédios de uso geral) geralmente tem validade ampla orientada pelo médico, mas receitas de controle especial (como tarja preta) valem por 30 dias a partir da data de emissão. Já a receita de antibióticos (controle especial em duas vias) tem validade restrita a 10 dias no Brasil.",
+    "palavras_chaves": [
+        "receita", "validade", "antibiotico", "tarja preta"
+    ],
+    "onde": "Clínicas médicas e farmácias...",
     "fonte": "Dados encontrados no local...",
     "verificado_em": "Última atualização em 11/11/2026"
     }
